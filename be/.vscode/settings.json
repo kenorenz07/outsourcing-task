@@ -1,0 +1,14 @@
+
+{
+   
+    // Enable per-language
+    // "[js]": {
+    //     "editor.formatOnSave": true
+    // },
+    // "[php]": {
+    //     "editor.formatOnSave": true
+    // },
+    // "[.vue]": {
+    //     "editor.formatOnSave": true
+    // },
+}
